@@ -6,7 +6,7 @@ Most of the time in the professional world of data scientist, data professionals
 List of Data Science Cheatsheets :
 
 ## Table of Contents
-- [Algorithms](Algorithms/README.md)
+- [Algorithms](Algorithms)
 - [Artificial Intelligence](Artificial%20Intelligence/README.md)
 - [Big Data](Big%20Data/README.md)
 - [Data Engineering](Data%20Engineering/README.md)
